@@ -29,9 +29,5 @@ This project is designed to demonstrate Java programming fundamentals and Object
 - Control structures (loops, conditions)
 - Methods and basic logic handling
 
----
 
-## ▶️ How to Run the Project
-1. Clone the repository:
-   ```bash
    git clone https://github.com/DhanushkaDisanayake/BurgerShop.git
