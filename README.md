@@ -6,28 +6,3 @@ This project is designed to demonstrate Java programming fundamentals and Object
 
 ---
 
-## 🛠️ Technologies Used
-- Java
-- NetBeans IDE
-- Git & GitHub
-
----
-
-## ✨ Features
-- Add and manage burger orders
-- Calculate total bill amount
-- Display order details
-- Simple and user-friendly console interface
-
----
-
-## 🧠 Concepts Covered
-- Classes and Objects
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Control structures (loops, conditions)
-- Methods and basic logic handling
-
-
-   git clone https://github.com/DhanushkaDisanayake/BurgerShop.git
