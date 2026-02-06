@@ -26,8 +26,5 @@ This project is designed to manage burger orders, calculate totals, and handle c
 - File Handling (if included)
 - Array / ArrayList (depending on your implementation)
 
----
-------------------------------------------------------------------------------
-
 ## 📂 Project Structure
 
